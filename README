@@ -1,0 +1,4 @@
+http://127.0.0.1:8888/tree?token=accac959fe9a47c8cefcb98921e187dfe90cdb7403f3bade
+
+docker run -it -p 8888:8888 tensorflow/tensorflow:latest-gpu-jupyter
+

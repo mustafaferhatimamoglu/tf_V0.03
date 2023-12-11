@@ -1,0 +1,4 @@
+apt update
+apt install net-tools -y
+apt upgrade -y
+apt install iputils-ping -y
